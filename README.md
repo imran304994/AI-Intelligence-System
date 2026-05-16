@@ -10,7 +10,7 @@ An LLM-powered recruitment and resume optimization platform built during a **Sta
 
 * **LLM Engine:** Groq API
 * **Frontend UI:** Streamlit
-* **Document Parser:** PyPDF2 / pdfplumber
+* **Document Parser:** pdfplumber
 * **Language:** Python
 
 ## 📁 Project Structure
