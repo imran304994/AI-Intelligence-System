@@ -1,3 +1,4 @@
+import os
 from groq import Groq
 from utils import safe_json_loads, normalize_score
 
