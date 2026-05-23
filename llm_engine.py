@@ -1,7 +1,7 @@
 from groq import Groq
 from utils import safe_json_loads, normalize_score
 
-client = Groq(api_key="")
+client = Groq(api_key="GROQ_API_KEY")
 
 
 def analyze_resume_general(resume_text):
